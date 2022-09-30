@@ -14,3 +14,18 @@ body{
     color: #333;
     background-color: aquamarine;
 }
+.container{
+   display: flex; 
+   justify-content: space-evenly;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+}
+li{
+    margin-left: 20px;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
