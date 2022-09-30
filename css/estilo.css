@@ -1,0 +1,16 @@
+/*selectores
+selectores del tipo etiqueta (body, table,li)
+selectores del tipo class (.nombre)
+selectores universales (hace cambios a toda  mi pagina)*/
+*{
+    margin: 0px;
+    padding: 0;
+
+}
+body{
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 1.5;
+    color: #333;
+    background-color: aquamarine;
+}
